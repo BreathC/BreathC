@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Xxx](https://pl.com/)
 <br>
-- 🌱 I’m currently learning **Java, Python, Php**
+- 🌱 I’m currently learning <a href="https://www.python.org/">Python</a>
 <br>
 - 👨‍💻 All of my projects are available at [https://bio.link/DigitalSurajit/](https://bio.link/DigitalSurajit/)
 <br>
@@ -52,4 +52,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=breathc&" alt="breathc" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Digital Surajit "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Digital Surajit " /></a><a href="https://ko-fi.com/DigitalSurajit"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="DigitalSurajit" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/DigitalSurajit"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=DigitalSurajit&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+<a href="https://ko-fi.com/DigitalSurajit"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="DigitalSurajit" /></a></p><br><br>
